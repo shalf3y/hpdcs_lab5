@@ -7,3 +7,10 @@
 1. Помістити файл london.csv з адресами в папку проекту
 2. Запустити генерацію даних `data_generator.ipynb`
 3. Запустити аналіз даних `analysis.ipynb`.
+
+Приклад згенерованих даних:
+<img width="1541" alt="image" src="https://github.com/shalf3y/hpdcs_lab5/assets/122876241/925a98b4-4bf6-46bd-8385-a094997647ce">
+
+Приклад звіту:
+
+<img width="196" alt="image" src="https://github.com/shalf3y/hpdcs_lab5/assets/122876241/aa9641bc-ad56-4ec0-8d1c-76e52eb270ce">
